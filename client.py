@@ -13,3 +13,4 @@ class Client:
     def send_set_request(self, key, value , term):
         # send set request to leader
         pass
+#check
